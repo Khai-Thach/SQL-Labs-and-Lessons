@@ -1,0 +1,1 @@
+ssh -L 11521:dldcisora01.tu.temple.edu:1521 tuq43307@cis-linux2.temple.edu
